@@ -1,0 +1,4 @@
+/target
+/Cargo.lock
+
+/src/wba_dev_wallet.json
